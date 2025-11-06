@@ -1,4 +1,4 @@
-﻿# WorkShoop1
+﻿# WorkShop1
 
 # **🚀 ETL Process for Candidate Management**
 
@@ -93,6 +93,7 @@ Example .env:
     DB_HOST=localhost
     DB_PORT=port
     DB_NAME=dbname
+
 
 
 
